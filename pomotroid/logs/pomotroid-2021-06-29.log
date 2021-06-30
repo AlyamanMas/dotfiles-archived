@@ -1,0 +1,7 @@
+{"message":"Preferences loaded from /home/faire/.config/pomotroid/user-preferences.json","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:31:25.221Z"}
+{"message":"app ready","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:31:25.745Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:31:26.632Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:31:26.634Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:31:26.635Z"}
+{"message":"Preferences loaded from /home/faire/.config/pomotroid/user-preferences.json","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:31:27.891Z"}
+{"message":"quitting app...","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-29T10:33:29.665Z"}

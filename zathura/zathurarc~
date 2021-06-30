@@ -1,0 +1,8 @@
+set recolor-darkcolor  "#282828"
+set recolor-lightcolor "#fbf1c7"
+set recolor true
+set statusbar-bg "#1d2021"
+set statusbar-fg "#fbf1c7"
+set statusbar-home-tilde true
+set default-bg "#fbf1c7"
+set default-fg "#1d2021"

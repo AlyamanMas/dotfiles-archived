@@ -1,0 +1,37 @@
+{"message":"Preferences loaded from /home/faire/.config/pomotroid/user-preferences.json","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:36:20.090Z"}
+{"message":"app ready","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:36:20.858Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:36:23.146Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:36:23.150Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:36:23.151Z"}
+{"message":"Preferences loaded from /home/faire/.config/pomotroid/user-preferences.json","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:36:25.010Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:37:25.118Z"}
+{"message":"focus round round paused","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:45:13.023Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:46:17.315Z"}
+{"message":"focus round round paused","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:50:02.692Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T06:53:40.233Z"}
+{"message":"focus round completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:07:08.305Z"}
+{"message":"short break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:07:09.848Z"}
+{"message":"short break completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:12:09.848Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:12:11.371Z"}
+{"message":"focus round completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:37:11.426Z"}
+{"message":"short break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:37:12.949Z"}
+{"message":"short break completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:42:12.956Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T07:42:14.481Z"}
+{"message":"focus round completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:07:14.484Z"}
+{"message":"long break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:07:16.006Z"}
+{"message":"long break round paused","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:07:19.805Z"}
+{"message":"long break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:09:12.905Z"}
+{"message":"long break completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:34:09.913Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:34:11.447Z"}
+{"message":"focus round completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:59:11.450Z"}
+{"message":"short break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T08:59:12.973Z"}
+{"message":"short break round paused","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:02:01.576Z"}
+{"message":"short break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:50.193Z"}
+{"message":"short break completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:54.501Z"}
+{"message":"focus round completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:54.526Z"}
+{"message":"short break completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:54.545Z"}
+{"message":"focus round completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:55.820Z"}
+{"message":"long break round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:56.017Z"}
+{"message":"long break completed","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:56.657Z"}
+{"message":"focus round round started","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:28:57.335Z"}
+{"message":"quitting app...","level":"info","hostname":"YPC-ARCH","timestamp":"2021-06-21T09:52:55.391Z"}
