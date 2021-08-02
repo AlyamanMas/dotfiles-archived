@@ -6,54 +6,69 @@
     "auditLog": "/home/faire/.config/pomotroid/logs/.f1208384a05ee6a95aa65ddc1dc20c68fbe4e672-audit.json",
     "files": [
         {
-            "date": 1623910053259,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-17.log",
-            "hash": "7ef53b484ee6666ae1924c4984226d7f"
+            "date": 1626353106866,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-15.log",
+            "hash": "bdfc5b1fc557309eba7ce9b30e89aa5f"
         },
         {
-            "date": 1623992862543,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-18.log",
-            "hash": "9466596f56d6a5c8200b2097da553d4c"
+            "date": 1626431340849,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-16.log",
+            "hash": "df195f67206e0c49b3a96730ea91e65c"
         },
         {
-            "date": 1624081004748,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-19.log",
-            "hash": "9ea28af1ccc2707f7df29aed9547b07a"
+            "date": 1626528013936,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-17.log",
+            "hash": "1ad909e28bf2147ded7108021bd84467"
         },
         {
-            "date": 1624168019217,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-20.log",
-            "hash": "7e4a8bf91909069f4012a520282dfc5b"
+            "date": 1626599479638,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-18.log",
+            "hash": "e5a1ffe0ede0add685f0f0214b65d392"
         },
         {
-            "date": 1624257379920,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-21.log",
-            "hash": "ae086dfc6f385b8369e125055250a445"
+            "date": 1626680659552,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-19.log",
+            "hash": "a5d45d78ea21b3f387c58db7608e14e7"
         },
         {
-            "date": 1624376936119,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-22.log",
-            "hash": "1646d3c943f4654ca92de85ebe5eaa89"
+            "date": 1626776964549,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-20.log",
+            "hash": "c3273046483e5cc4cb8632bf209c3ce3"
         },
         {
-            "date": 1624422523364,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-23.log",
-            "hash": "ff8bcaee36dc8f37f06dd026adb268e5"
+            "date": 1626860889514,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-21.log",
+            "hash": "6a8fa4c34268c2fe6a6e03da09b86324"
         },
         {
-            "date": 1624779743363,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-27.log",
-            "hash": "e3831f821d398ec4028c6c7a0fdceba2"
+            "date": 1626943605780,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-22.log",
+            "hash": "b3f8d869f9f4d12790d3d0ecc2b7ba19"
         },
         {
-            "date": 1624861905461,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-28.log",
-            "hash": "7102069f2204b643fe66f58bda17d17c"
+            "date": 1627034487066,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-23.log",
+            "hash": "41c2d30fd6036f554950549458b98608"
         },
         {
-            "date": 1624962685194,
-            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-06-29.log",
-            "hash": "141bb93fc65f6ae739e56d9a0d5b8b25"
+            "date": 1627115466542,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-24.log",
+            "hash": "e75759c53b1161c7ab855674bf8f2d10"
+        },
+        {
+            "date": 1627198810920,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-25.log",
+            "hash": "b742935c2b8060ced06d69ef8b966165"
+        },
+        {
+            "date": 1627371460734,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-27.log",
+            "hash": "ff838d30fc8a39540f84fa8d0b5ff323"
+        },
+        {
+            "date": 1627548854152,
+            "name": "/home/faire/.config/pomotroid/logs/pomotroid-2021-07-29.log",
+            "hash": "d06b69c50ba2cd1296d2d48890a24002"
         }
     ]
 }

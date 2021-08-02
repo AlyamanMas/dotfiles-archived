@@ -38,7 +38,8 @@ seat seat0 xcursor_theme "Breeze_Snow"
 #    \=================/
 
 # font pango:Fira Code Regular 11
-font pango:Iosevka Term SS05 11
+font pango:Fira Sans 11
+# font pango:Iosevka Term SS05 11
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)

@@ -52,8 +52,8 @@
         56494,
         0
     ],
-    "pref_dialog_height": 500,
-    "pref_dialog_width": 450,
+    "pref_dialog_height": 503,
+    "pref_dialog_width": 719,
     "show_connection_manager_on_start": true,
     "show_new_releases": true,
     "show_piecesbar": false,
@@ -68,7 +68,7 @@
     "sidebar_show_zero": false,
     "standalone": true,
     "start_in_tray": false,
-    "tabsbar_position": 383,
+    "tabsbar_position": 393,
     "tabsbar_tab_pos": "top",
     "tray_download_speed_list": [
         5.0,
@@ -85,8 +85,8 @@
         80.0,
         300.0
     ],
-    "window_height": 738,
-    "window_maximized": false,
+    "window_height": 748,
+    "window_maximized": true,
     "window_width": 1366,
     "window_x_pos": 0,
     "window_y_pos": 0
